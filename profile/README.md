@@ -8,9 +8,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-## Hi there 👋
-🙋‍♀️ 쓰리라차 레포입니다
-
 <div align="center">
   <h1>🛒 데이터로 장바구니를 바꾸다</h1>
   <p>🔍 합리적 소비 의사결정 지원을 위한 농수산물 물가 정보 통합 분석 플랫폼 </p>
